@@ -1,0 +1,1 @@
+# azure-monitor-metric-alert-module
